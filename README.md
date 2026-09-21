@@ -1,2 +1,2 @@
 # perpustakaandigital
-Mencoba membut perpustakaan digital
+Mencoba membuat perpustakaan digital
