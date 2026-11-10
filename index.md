@@ -1,6 +1,13 @@
 # Digital Library
+
 Selamat Datang di Perpustakaan Digital
+
+Nama : Nastiti Ridhani
+NIM  : 13040124130079
+Kelas: ILPUS B
+
 Berikut ini adalah Koleksi yang dimiliki:
+
 ## Koleksi
 1. [Chibrary_card](ebook/Chibrary_card.pdf) – Ramen A. Purba, dkk (2026) 
 2. [Caraval](ebook/CARAVAL.pdf) - Stephanie Garber (2017)
@@ -16,9 +23,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 12. [resume](ebook/resume.pdf) - Nastiti (2026)
     
 ---
-
-### Nastiti Ridhani
-#### 13040124130079
-
 ---
-*Powered by GitHub Pages*
+"Happy reading, guys!" *Powered by GitHub Pages*
