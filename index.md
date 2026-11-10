@@ -1,9 +1,11 @@
 # Digital Library
-
+---
 Selamat Datang di Perpustakaan Digital
 
 Nama : Nastiti Ridhani
+
 NIM  : 13040124130079
+
 Kelas: ILPUS B
 
 Berikut ini adalah Koleksi yang dimiliki:
@@ -20,7 +22,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Mirai](ebook/Mirai.pdf) - Mamoru Hosoda (2018)
 10. [Funiculi_Funicula](ebook/Funiculi_Funicula.pdf) - Toshikazu Kawaguchi (2021)
 11. [Hilmy_Milan](ebook/Hilmy_Milan.pdf) - Nadia Ristivani (2021)
-12. [resume](ebook/resume.pdf) - Nastiti (2026)
+12. [Transforming Libraries through Information Technology](ebook/Transforming Libraries through Information Technology.pdf) - Nastiti (2026)
     
 ---
 ---
