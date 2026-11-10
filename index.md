@@ -12,8 +12,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Winter_In_Tokyo](ebook/Winter_In_Tokyo.pdf) - Ilana Tan (2008)
 9. [Mirai](ebook/Mirai.pdf) - Mamoru Hosoda (2018)
 10. [Funiculi_Funicula](ebook/Funiculi_Funicula.pdf) - Toshikazu Kawaguchi (2021)
-11. [Hilmy_Milan](ebook/Hilmy_Milan.pdf) - Nadia Ristivani (2021)
-12. [resume](ebook/resume.pdf) - Nastiti (2026)
+10. [Hilmy_Milan](ebook/Hilmy_Milan.pdf) - Nadia Ristivani (2021)
+11. [resume](ebook/resume.pdf) - Nastiti (2026)
+12. 
 ---
 
 ### Nastiti Ridhani
